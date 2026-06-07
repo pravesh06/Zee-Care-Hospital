@@ -1,0 +1,6 @@
+{
+  "name": "Zee Care",
+  "description": "Compassionate Care, Advanced Medicine - Professional website for Zee Care featuring department details, medical specialists, online appointment booking, and wellness resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
